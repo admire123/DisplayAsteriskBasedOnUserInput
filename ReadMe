@@ -1,0 +1,5 @@
+You and four other members of your programming study group decide to tackle 
+programming by making it fun and interesting. The five of you decide to create a game. 
+Each member of the team picks a number, the program should accept this number. 
+Using a bar chart style illustrate the numbers chosen by displaying an asterisk for each 
+number. The output of your program should display similar to the image below.
